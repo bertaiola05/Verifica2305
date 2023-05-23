@@ -20,3 +20,5 @@ e tra gi assset si seleziona questo
 poi aprire git bash
 
 ![immagine3](immagine3.PNG)
+
+edit

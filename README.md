@@ -27,7 +27,10 @@ poi aprire git bash
 ![immagine5](immagine5.PNG)
 ![immagine6](immagine6.PNG)
 ![immagine9](immagine9.PNG)
-selezionare ciò che ci risulta più comodo
+
+selezionando manager bisognerà inserire il token 
+![immagine10](immagine10.PNG)
+
 # inserimetno dei file JAVA e aggioramento del readme 
 ![immagine7](immagine7.PNG)
 

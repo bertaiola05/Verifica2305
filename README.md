@@ -21,4 +21,9 @@ poi aprire git bash
 
 ![immagine3](immagine3.PNG)
 
-edit
+# inserimento dell README.md 
+
+![immagine4](immagine4.PNG)
+![immagine5](immagine5.PNG)
+![immagine6](immagine6.PNG)
+

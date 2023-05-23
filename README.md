@@ -27,3 +27,10 @@ poi aprire git bash
 ![immagine5](immagine5.PNG)
 ![immagine6](immagine6.PNG)
 
+# inserimetno dei file JAVA e aggioramento del readme 
+![immagine7](immagine7.PNG)
+
+# inserimento di un immagine al interno del README 
+![immagine8](immagine8.PNG)
+# inserimento di un titolo 
+digitare il caratter e "#" dare uno spazio e scirvere il titolo come visto nel immagine sopra

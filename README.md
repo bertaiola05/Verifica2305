@@ -1,10 +1,12 @@
 Una pizzeria da asporto intende gestire con un’applicazione java gli ordini e i clienti (username, email e indirizzo di consegna) che accedono per ordinare la pizza. Gli ordini devono essere rappresentati da un codice per poi essere rimossa alla consegna della pizza a casa del cliente.
 Si scelga a seconda dei vantaggi e svantaggi quale sia la migliore modalità di gestione per le pizze da poter ordinare nell’applicazione e quale per i clienti.
-●	aggiunta di un nuovo ordine;
-●	ricerca dell’ordine in base al codice dell’ordine;
-●	verifica dell’ordine della pizza con indicazione dei dati del cliente che lo ha preso;
-●	rimozione di ordine.
+	aggiunta di un nuovo ordine;
+    ricerca dell’ordine in base al codice dell’ordine;
+    verifica dell’ordine della pizza con indicazione dei dati del cliente che lo ha preso;
+    rimozione di ordine.
 
+il codice presenta la classe cliente che ha come attributi le informazioni del cliente, 
+e la calsse pizzeria che è una priority queue che gestisce gli ordini in entrata e uscita
 # creazione di una repository
 
 ![immagine1](immagine1.PNG)
